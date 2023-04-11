@@ -11,4 +11,5 @@
     <string name="primera_opcion">1. Multiplicación.</string>
     <string name="segunda_opcion">2. Fibonacci.</string>
     <string name="tercera_opcion">3. Potencia.</string>
+    <string name="title_activity_maps">MapsActivity</string>
 </resources>
